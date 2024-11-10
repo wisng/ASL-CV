@@ -1,4 +1,4 @@
-path: ../ASL-CV/datasets
+path: ../ASL-CV/augmented
 train: ./train/images
 val: ./valid/images
 test: ./test/images

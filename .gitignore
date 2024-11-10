@@ -165,3 +165,5 @@ asl
 datasets
 raw_data
 runs/detect/train9/weights
+runs/detect/train3/weights
+/augmented
