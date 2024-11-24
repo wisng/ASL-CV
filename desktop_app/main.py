@@ -2,7 +2,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load your YOLO model
-model = YOLO('./model/best.pt') 
+model = YOLO('../model/augmented/best.pt') 
 
 label_dict = {
     0: 'A', 1: 'B', 2: 'C', 3: 'D', 4: 'E', 5: 'F', 6: 'G', 7: 'H', 8: 'I', 

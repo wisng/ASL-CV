@@ -164,6 +164,7 @@ cython_debug/
 asl
 datasets
 raw_data
-runs/detect/train9/weights
-runs/detect/train3/weights
+training/runs/detect/train9/weights
+training/runs/detect/train3/weights
 /augmented
+yolo11n.pt
